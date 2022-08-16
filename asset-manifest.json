@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/competition/static/css/main.2afb3bb5.css",
+    "main.js": "/competition/static/js/main.5aa6862f.js",
+    "static/media/dis.jpg": "/competition/static/media/dis.5b07fb658e404d26f041.jpg",
+    "static/media/sky.svg": "/competition/static/media/sky.209774ecd96fef282068.svg",
+    "static/media/waves.svg": "/competition/static/media/waves.6d284919b65215c6d8f9.svg",
+    "index.html": "/competition/index.html",
+    "main.2afb3bb5.css.map": "/competition/static/css/main.2afb3bb5.css.map",
+    "main.5aa6862f.js.map": "/competition/static/js/main.5aa6862f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2afb3bb5.css",
+    "static/js/main.5aa6862f.js"
+  ]
+}
